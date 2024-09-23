@@ -8,7 +8,7 @@
 
   "target": {
     "CNAME": {
-      "name": "vip",
+      "name": "vip1",
       "value": "vip1.github.io"
     }
   },
