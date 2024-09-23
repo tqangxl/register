@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/eazyblack2/register.github.io",
+
+  "owner": {
+    "username": "tqangxl",
+    "email": "tqangxl@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "vip",
+      "value": "vip.github.io"
+    }
+  },
+
+  "proxied": false
+}
