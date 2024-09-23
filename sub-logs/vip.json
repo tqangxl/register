@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "vip",
-      "_comment": " \"value\":"vip.github.io\"  \"
+      "_comment": " \"value\"\:\"vip.github.io\"  \"
   
        "value": "107.172.83.190"
     }
